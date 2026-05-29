@@ -1,0 +1,6 @@
+# 📦 3. Dependências (`requirements.txt`)
+
+Como não usamos biblioteca externa:
+
+```txt
+# Nenhuma dependência externa
